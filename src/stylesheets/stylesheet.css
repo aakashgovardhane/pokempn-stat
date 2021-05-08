@@ -1,0 +1,21 @@
+.header {
+    color :red
+}
+
+.statLabel{
+    width: 50%;
+    color: rgb(131, 126, 126);
+}
+.card-heading{
+    color:green;
+    font-size: xx-large;
+    text-align: center;
+    font-weight: 500;
+
+}
+.pokemons:hover{
+    cursor:pointer;
+    color: green;
+    font-weight: 300;
+    font-size: 18px;
+}
